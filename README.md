@@ -1,4 +1,5 @@
 Live demo: User panel https://demo-remote-earning-video-watching.mdmasum.org/
+
 Admin Panel: https://demo-remote-earning-video-watching.mdmasum.org/admin/
 
 This project was developed for a company that generates youtube video organic watches. So they collect people to watch and they can earn money. 
